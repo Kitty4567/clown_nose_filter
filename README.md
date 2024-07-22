@@ -13,6 +13,6 @@ JavaScript
 3. PoseNet: A machine learning model for real-time human pose estimation
 
 Credits 
-ml5.js
-p5.js
-PoseNet Model
+1. ml5.js
+2. p5.js
+3. PoseNet Model
